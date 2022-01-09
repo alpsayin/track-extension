@@ -46,7 +46,6 @@
     "contextMenus",
     "notifications",
     "idle",
-    "tabs",
     "storage"
   ],
   "optional_permissions": ["*://*/"],
