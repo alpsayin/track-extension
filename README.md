@@ -1,3 +1,7 @@
+### Branched from 1.72.3 version and removed the tabs (browsing history permission). Checkout [no_tabs_permission](https://github.com/alpsayin/track-extension/tree/no_tabs_permission) branch.
+
+<hr>
+
 <img src="docs/toggl-track-logo.svg" alt="Track Extension" width="400" height="auto">
 
 # Toggl Track browser extension integrations
